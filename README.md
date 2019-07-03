@@ -2,7 +2,7 @@
 日常以及项目中用到的一些框架、插件、字体等等资源的整理
 
 字体资源：
-1、FontAwesome 导入css和fonts即可
+1、FontAwesome 导入css和fonts即可</br>
 2、iconfont
     第一步：解压后传到网站目录,以下示例以页面文件与字体文件在同一目录作为参考!
     第二步：使用font-face声明字体
