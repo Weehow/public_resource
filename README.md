@@ -23,4 +23,4 @@
         -moz-osx-font-smoothing: grayscale;  
     }  
     第四步：挑选相应图标并获取字体编码，应用于页面  
-    <i class=”iconfont“>字体编码</i>  
+    i class=”iconfont“> &#xebe0; </i>  
