@@ -23,3 +23,7 @@
         -moz-osx-font-smoothing: grayscale;  
     }  
     第四步：挑选相应图标并获取字体编码，应用于页面  
+
+轮播插件
+https://www.swiper.com.cn/ 
+https://github.com/OwlCarousel2/OwlCarousel2 
